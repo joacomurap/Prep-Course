@@ -28,8 +28,8 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  val str = "str"
-  return devolverString(str)
+  var hola = ' str'
+  return hola
 }
 
 function suma(x, y) {
