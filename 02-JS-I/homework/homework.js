@@ -28,8 +28,8 @@ const nuevoModulo = 21 % 5 === 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  var devolverString = "Hola";
-  return devolverString;
+  var hola = str;
+  return hola;
 }
 
 function suma(x, y) {
@@ -42,31 +42,26 @@ function suma(x, y) {
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-  var resta = 2 - 1;
-  return resta;
+
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  var multiplica = 2 * 1;
-  return multiplica;
+  
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  var divide = 6 / 2;
-  return divide;
+ 
 }
 
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (true) {var sonIguales = 2 == 2;
-  } else {
-  }
+ 
 }
 
 function tienenMismaLongitud(str1, str2) {
