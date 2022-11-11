@@ -36,8 +36,12 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-return(2 + 1)
-}
+  var x = 2;
+  var y = 1;
+  const suma = x + y;
+  return suma;
+  }
+
 
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
