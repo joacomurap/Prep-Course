@@ -38,8 +38,8 @@ function suma(x, y) {
   // Tu código:
   var x = 2;
   var y = 1;
-  const suma = x + y;
-  return suma;
+  sumaDos = x + y;
+  return sumaDos;
   }
 
 
