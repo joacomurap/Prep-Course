@@ -36,7 +36,9 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-var suma = 2 + 1
+  var x = 2
+  var y = 1
+  var suma = 2 + 1
 return suma
 }
 
