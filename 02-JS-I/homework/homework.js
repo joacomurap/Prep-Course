@@ -37,7 +37,6 @@ function suma(x, y) {
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
   return x + y
-  
   suma(2, 3)
   }
 
@@ -45,13 +44,15 @@ function suma(x, y) {
 function resta(x, y) {
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
-
+  return x - y
+  resta(8, 3)
 }
 
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  
+  return x * y
+  multiplica(3, 2)
 }
 
 function divide(x, y) {
