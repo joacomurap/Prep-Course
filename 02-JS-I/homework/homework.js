@@ -39,7 +39,7 @@ function suma(x, y) {
   var x = 2
   var y = 1
   var suma = x + y
-return suma
+return suma(x, y)
 }
 
 function resta(x, y) {
