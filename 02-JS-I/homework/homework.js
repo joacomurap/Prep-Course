@@ -32,13 +32,13 @@ function devolverString(str) {
   return hola;
 }
 
-function suma(x, y = 7) {
+function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var x = 3
-  var suma = x + y
-return suma
+  var x = 2
+  var y = 1
+  return x + y
 }
 
 function resta(x, y) {
